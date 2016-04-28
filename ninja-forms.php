@@ -8,7 +8,8 @@ Author: The WP Ninjas
 Author URI: http://ninjaforms.com
 Text Domain: ninja-forms
 Domain Path: /lang/
-
+GitHub Plugin URI: https://github.com/digitalegarage/ninja-forms/
+GitHub Branch: master
 Copyright 2016 WP Ninjas.
 */
 
