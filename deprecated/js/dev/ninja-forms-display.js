@@ -3,7 +3,7 @@ jQuery(document).ready(function(jQuery) {
 
 	init_all_the_ninja_things();
 	
-	document.addEventListener("pjax:success", function() {
+	document.addEventListener("pjax:end", function() {
 	    init_all_the_ninja_things();
 	});
 
